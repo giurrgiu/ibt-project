@@ -1,0 +1,11 @@
+[package]
+name = "ibt_sui"
+version = "0.0.1"
+
+[addresses]
+ibt_sui = "0x0"
+
+[environments]
+localnet = "2871739e"
+testnet = "testnet"
+mainnet = "mainnet"
